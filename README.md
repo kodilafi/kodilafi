@@ -1,6 +1,9 @@
 # Hi There 👋, I'm Dima!
 
-<a href="https://vk.com/kodisto"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/0077FF"></a> <a href="https://t.me/kodilafi"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26A5E4"></a>
+<a href="https://vk.com/kodisto"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/0077FF"></a>
+<a href="https://t.me/kodilafi"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26A5E4"></a>
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 <!--
 **kodilafi/kodilafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
