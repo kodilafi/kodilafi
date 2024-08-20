@@ -1,8 +1,6 @@
 # Hi There 👋, I'm Dima!
 
-<a href="https://vk.com/kodisto">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vk/0077FF">
-</a>
+<a href="https://vk.com/kodisto"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/0077FF"></a> <a href="https://t.me/kodilafi"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26A5E4"></a>
 
 <!--
 **kodilafi/kodilafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
