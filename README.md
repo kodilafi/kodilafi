@@ -10,7 +10,7 @@
   <a href="https://t.me/kodilafi"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26A5E4"></a>
 </p>
 <p>
-  eMail - midok.mag4@gmail.com
+  email - midok.mag4@gmail.com
 </p>
 
 
