@@ -1,7 +1,6 @@
 <h1>Hi There 👋, I'm Dima!</h1>
 
-🔭 I’m currently working on [Лабиринт](https://www.labirint.ru/)
-
+🔭 I’m currently working on SBER
 📫 How to reach me: 
 
 <p>
